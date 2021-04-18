@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Mytr Seller App - Appcast</title>
+        <title>Mytr Store App - Appcast</title>
         <item>
             <title>Version 100</title>
             <description>First version of the Mytr Store App</description>
