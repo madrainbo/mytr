@@ -3,10 +3,10 @@
     <channel>
         <title>Mytr Store App - Appcast</title>
         <item>
-            <title>Version 100</title>
+            <title>Version 103</title>
             <description>First version of the Mytr Store App</description>
-            <pubDate>Sun, 18 Apr 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.sse.mytrshop" sparkle:version="100" sparkle:os="android" />
+            <pubDate>Sun, 1 May 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.sse.mytrshop" sparkle:version="103" sparkle:os="android" />
         </item>
     </channel>
 </rss>
